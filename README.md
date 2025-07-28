@@ -9,7 +9,7 @@
       </head>
     
     <body> 
-     <img src="whttps://endormoonstore.com/wp-content/uploads/2020/03/doraemon_figura_11_cm_doraemon_stand_by_me_doraemon_2_figuarts_zero-11.jpgidth", width="100" height="100"</t> 
+     
       
       <table>
       </table>
