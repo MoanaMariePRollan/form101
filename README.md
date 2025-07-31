@@ -47,7 +47,6 @@
       <input type="checkbox" name="hobby" value="Eating"> Eating<br>
       <input type="checkbox" name="hobby" value="Sleeping"> Sleeping<br>
     </p>
-  </form>
-
+  </form> 
 </body>
 </html>
